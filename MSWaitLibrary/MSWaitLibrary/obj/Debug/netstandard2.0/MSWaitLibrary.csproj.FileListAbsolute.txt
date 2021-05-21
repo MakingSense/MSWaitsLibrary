@@ -1,0 +1,9 @@
+C:\Users\ms\source\repos\Making Sense repos\MSWaitLibrary\MSWaitLibrary\obj\Debug\netstandard2.0\MSWaitLibrary.csprojAssemblyReference.cache
+C:\Users\ms\source\repos\Making Sense repos\MSWaitLibrary\MSWaitLibrary\obj\Debug\netstandard2.0\MSWaitLibrary.AssemblyInfoInputs.cache
+C:\Users\ms\source\repos\Making Sense repos\MSWaitLibrary\MSWaitLibrary\obj\Debug\netstandard2.0\MSWaitLibrary.AssemblyInfo.cs
+C:\Users\ms\source\repos\Making Sense repos\MSWaitLibrary\MSWaitLibrary\obj\Debug\netstandard2.0\MSWaitLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ms\source\repos\Making Sense repos\MSWaitLibrary\MSWaitLibrary\bin\Debug\netstandard2.0\MSWaitLibrary.deps.json
+C:\Users\ms\source\repos\Making Sense repos\MSWaitLibrary\MSWaitLibrary\bin\Debug\netstandard2.0\MSWaitLibrary.dll
+C:\Users\ms\source\repos\Making Sense repos\MSWaitLibrary\MSWaitLibrary\bin\Debug\netstandard2.0\MSWaitLibrary.pdb
+C:\Users\ms\source\repos\Making Sense repos\MSWaitLibrary\MSWaitLibrary\obj\Debug\netstandard2.0\MSWaitLibrary.dll
+C:\Users\ms\source\repos\Making Sense repos\MSWaitLibrary\MSWaitLibrary\obj\Debug\netstandard2.0\MSWaitLibrary.pdb
