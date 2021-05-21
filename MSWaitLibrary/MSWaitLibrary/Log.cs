@@ -17,8 +17,8 @@ namespace MSWaitLibrary
             string logMessage = string.Empty;
             string tcName = TestContext.CurrentContext.Test.Name;
             logMessage += $"{level.ToString().ToUpper().PadRight(7).Substring(0, 7)}";
-           // logMessage += $" | {Metrics.ElapsedSinceStart().PadRight(5).Substring(0, 5)}";
-            //logMessage += $" | {Metrics.ElapsedSinceLast().PadRight(5).Substring(0, 5)}";
+            logMessage += $" | {Metrics.ElapsedSinceStart().PadRight(5).Substring(0, 5)}";
+            logMessage += $" | {Metrics.ElapsedSinceLast().PadRight(5).Substring(0, 5)}";
             if (tcName.Contains("_"))
                 logMessage += $" | {tcName.Substring(0, tcName.LastIndexOf('_'))}";
             else
